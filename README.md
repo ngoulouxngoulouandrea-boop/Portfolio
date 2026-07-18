@@ -1,40 +1,40 @@
-# Portfolio de Patrice Andréa
+# Portfolio de Patrice Andrea
 
-Site portfolio personnel simple construit en HTML et CSS, présenté comme un mini site de développeur Front-End.
+Site portfolio personnel simple construit en HTML et CSS, prsentÃ© comme un mini site de developpeur Front-End.
 
-## À propos
+## Ã  propos
 
-Ce projet est une page statique qui présente un profil personnel, des compétences, des services, un portfolio et un contact.
-Il est conçu pour être responsive et facile à lire sur mobile, tablette et bureau.
+Ce projet est une page statique qui prÃ©sente un profil personnel, des compÃ©tences, des services, un portfolio et un contact.
+Il est conÃ§u pour Ãªtre responsive et facile Ã  lire sur mobile, tablette et bureau.
 
 ## Structure du projet
 
 - `index.html` : page principale du portfolio.
 - `style.css` : styles globaux et mise en forme responsive.
-- `images/` : images utilisées dans la page.
+- `images/` : images utilisÃ©es dans la page.
 
-## Technologies utilisées
+## Technologies utilisï¿½es
 
 - HTML5
 - CSS3
 - Flexbox
 - CSS Grid
-- Font Awesome pour les icônes
+- Font Awesome pour les icÃ´nes
 - Google Fonts pour la typographie
 
 ## Utilisation
 
 1. Ouvrir `index.html` dans un navigateur.
-2. Aucune installation ou compilation n’est requise.
-3. Le site est prêt à être déployé sur un hébergement statique.
+2. Aucune installation ou compilation n'est requise.
+3. Le site est prÃªt Ã  Ãªtre dÃ©ployÃ© sur un hÃ©bergement statique.
 
 ## Points importants
 
 - Navigation interne avec ancres vers les sections.
-- Section "À propos" et "Compétences".
-- Présentation de projets et de parcours.
+- Section "Ã  propos" et "CompÃ©tences".
+- PrÃ©sentation de projets et de parcours.
 - Formulaire de contact statique.
 
-## Branches
+## Auteur
 
-Ce README est ajouté sur la branche `dev`.
+NGOULOU-NGOULOU ILOKI Patrice Andrea
